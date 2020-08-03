@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Josh-Siegel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Josh-Siegel/static/js/main.8a9692f9.chunk.js",
+    "main.js.map": "/Josh-Siegel/static/js/main.8a9692f9.chunk.js.map",
+    "runtime-main.js": "/Josh-Siegel/static/js/runtime-main.9fdbc87b.js",
+    "runtime-main.js.map": "/Josh-Siegel/static/js/runtime-main.9fdbc87b.js.map",
+    "static/js/2.9dc07e80.chunk.js": "/Josh-Siegel/static/js/2.9dc07e80.chunk.js",
+    "static/js/2.9dc07e80.chunk.js.map": "/Josh-Siegel/static/js/2.9dc07e80.chunk.js.map",
+    "index.html": "/Josh-Siegel/index.html",
+    "precache-manifest.3221cc6ba6ba440d5cff693f9b2b4547.js": "/Josh-Siegel/precache-manifest.3221cc6ba6ba440d5cff693f9b2b4547.js",
+    "service-worker.js": "/Josh-Siegel/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Josh-Siegel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9dc07e80.chunk.js.LICENSE.txt": "/Josh-Siegel/static/js/2.9dc07e80.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Josh-Siegel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fdbc87b.js",
+    "static/js/2.9dc07e80.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8a9692f9.chunk.js"
+  ]
+}
